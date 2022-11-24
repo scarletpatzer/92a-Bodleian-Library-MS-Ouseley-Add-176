@@ -55,7 +55,7 @@
     "geometry":{"type":"Point","coordinates":[3945,2920]}},
  {"type":"Feature","properties":
     {"id":7,
-    "chapter":"Chapter 7,
+    "chapter":"Chapter 7",
     "zoom":5,
     "image":"img/pictorial-st-louis-key.png",
     "source-credit":"Source: Library of Congress",
@@ -64,7 +64,7 @@
     "geometry":{"type":"Point","coordinates":[3945,2920]}},
 {"type":"Feature","properties":
     {"id":8,
-    "chapter":"Chapter 8,
+    "chapter":"Chapter 8",
     "zoom":5,
     "image":"img/pictorial-st-louis-key.png",
     "source-credit":"Source: Library of Congress",
@@ -73,7 +73,7 @@
     "geometry":{"type":"Point","coordinates":[3945,2920]}},
 {"type":"Feature","properties":
     {"id":9,
-    "chapter":"Chapter 9,
+    "chapter":"Chapter 9",
     "zoom":5,
     "image":"img/pictorial-st-louis-key.png",
     "source-credit":"Source: Library of Congress",
