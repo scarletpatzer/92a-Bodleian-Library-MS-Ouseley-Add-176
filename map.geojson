@@ -1,13 +1,13 @@
 {"type":"FeatureCollection", "features":[
   {"type":"Feature","properties":
     {"id":1,
-    "chapter":"Chapter 1: The Folio",
+    "chapter":"Chapter 1: The Introduction",
     "zoom":1,
     "image":"img/pictorial-st-louis.png",
     "source-credit":"Source: Library of Congres",
     "source-link":"https://lccn.loc.gov/rc01001392",
-    "description":"\"A popular cartographic form used to depict U.S. and Canadian cities and towns during the late nineteenth and early twentieth centuries was the panoramic map. Known also as bird's-eye views, perspective maps, panoramas, and aero views, panoramic maps are nonphotographic representations of cities, portrayed as if viewed from above at an oblique angle. Although not generally drawn to scale, they show street patterns, individual buildings, and major landscape features in perspective.\" (Hebert & Dempsey)"},
-    "geometry":{"type":"Point","coordinates":[3319,4092]}},
+    "description":"According to Mario Casari, in his scholarly essay “The Conceits of Poetry’: Firdausi’s Shahnama and the discovery of Persian in early modern Europe,” he states that \"the Shahnama is based on a long tradition of Persian stories - transmitted both orally and textually\” (Casari, 2013, 119). He also declares that \“The Shahnama is one of the most voluminous epics of world literature\” (Casari, 119). This image of Rustam mortally wounding Suhrab in the Firdausi Shahnama displays two men fighting. The man on top is Rustam, the father. The man on the bottom, Suhrab, is his son. The picture indicates the two men fighting, as Rustam is depicted on top of Suhrab, choking him. These two men are father and son but do not know this at the time of their battle, and Rustam is fighting the enemy of Iran in this battle. The picture shows Rustam on top, evidently overpowering Suhrab in this fight. However, before this, Suhrab had almost killed Rustam by cutting his head off, but the customs in wrestling demand that one cannot cut another one's head off. Since these customs exist, Rustam escaped his death. They had scheduled another battle to occur the next day. After this battle transpired, Rustam felt defeated. Before the battle, he prayed to God to take his inhumane strength away to be like other men. However, after the challenge and feeling overpowered, he prayed to God again for his strength to come back to him, and God granted his strength back. The next day, they again encounter one another. The story ends with Rustam wounding Suhrab so significantly that Suhrab succumbs to his injuries and passes away without Rustam knowing he has just committed an act of filicide."},
+    "geometry":{"type":"Point","coordinates":[0,0]}},
   {"type":"Feature","properties":
     {"id":2,
     "chapter":"Chapter 2: Clouds",
