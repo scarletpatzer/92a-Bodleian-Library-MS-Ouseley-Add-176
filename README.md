@@ -12,6 +12,8 @@ Mobile-friendly, interactive digital image interpretation created using:
 ## Check It Out
 https://hkeshani.github.io/shahnama-storyscroll/
 
+https://scarletpatzer.github.io/92a-Bodleian-Library-MS-Ouseley-Add-176/
+
 
 ## Instructions
 
